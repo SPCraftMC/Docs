@@ -10,4 +10,9 @@ description: 使用 Minecraft:BedrockEdition 加入服务器
 
 Minecraft:BedrockEdition(版本1.18.2以上)
 
+确保已开启 Xbox多人游戏 设置
+
 ### 加入
+
+打开Minecraft:BedrockEdition(1.18.10以上)
+
