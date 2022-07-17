@@ -5,9 +5,10 @@
 
 ## 加入游戏 <a href="#join-game" id="join-game"></a>
 
-* [使用 Minecraft:JavaEdition](join-game/use-minecraft-java-edition.md)
+* [使用 Minecraft:JavaEdition](join-game/shi-yong-minecraftjavaedition.md)
 * [使用 Minecraft:BedrockEdition](join-game/shi-yong-minecraftbedrockedition.md)
 
 ## 消息转发 <a href="#chat-forward" id="chat-forward"></a>
+
 * [转发Minecraft服务器消息](chat-forward/minecraft-forward-to-qq.md)
 * [转发QQ群消息](chat-forward/qq-forward-to-minecraft.md)
