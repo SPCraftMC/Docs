@@ -12,7 +12,7 @@ Minecraft:JavaEdition(版本1.18.2以上)
 
 ### 加入
 
-打开Minecraft:JavaEdition(版本1.18.2以上)
+打开Minecraft:JavaEdition（版本1.18.2以上）
 
 点击**“多人游戏”**
 
