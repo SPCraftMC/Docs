@@ -14,10 +14,17 @@ coverY: 0
 
 加入游戏相关
 
+* [zhu-ce-yu-deng-lu.md](join-game/zhu-ce-yu-deng-lu.md "mention")
 * [use-minecraft-javaedition.md](join-game/use-minecraft-javaedition.md "mention")
 * [use-minecraft-bedrockedition.md](join-game/use-minecraft-bedrockedition.md "mention")
 
-消息转发相关：
+消息转发相关
 
 * [minecraft-forward-to-qq.md](chat-forward/minecraft-forward-to-qq.md "mention")
 * [qq-forward-to-minecraft.md](chat-forward/qq-forward-to-minecraft.md "mention")
+
+传送相关
+
+* [spawn.md](teleport/spawn.md "mention")
+*
+
