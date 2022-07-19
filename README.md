@@ -26,5 +26,5 @@ coverY: 0
 传送相关
 
 * [spawn.md](teleport/spawn.md "mention")
-*
+* [home-plugin.md](teleport/home-plugin.md "mention")
 
