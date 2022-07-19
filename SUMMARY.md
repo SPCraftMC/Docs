@@ -5,6 +5,7 @@
 
 ## 加入游戏 <a href="#join-game" id="join-game"></a>
 
+* [注册与登录](join-game/zhu-ce-yu-deng-lu.md)
 * [使用 Minecraft:JavaEdition](join-game/use-minecraft-javaedition.md)
 * [使用 Minecraft:BedrockEdition](join-game/use-minecraft-bedrockedition.md)
 
