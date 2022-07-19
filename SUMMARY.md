@@ -12,3 +12,8 @@
 
 * [转发Minecraft服务器消息](chat-forward/minecraft-forward-to-qq.md)
 * [转发QQ群消息](chat-forward/qq-forward-to-minecraft.md)
+
+## 传送 <a href="#teleport" id="teleport"></a>
+
+* [回到世界出生点](teleport/spawn.md)
+* [家功能](teleport/home-plugin.md)
