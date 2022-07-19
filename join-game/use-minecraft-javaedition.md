@@ -8,11 +8,11 @@ description: 使用 Minecraft:JavaEdition 加入服务器
 
 要加入服务器，需要以下先决条件：
 
-Minecraft:JavaEdition(版本1.18.2以上)
+Minecraft:JavaEdition（版本1.18.2以上）
 
 ### 加入
 
-打开Minecraft:JavaEdition（版本1.18.2以上）
+打开**Minecraft:JavaEdition**（版本1.18.2以上）
 
 点击**“多人游戏”**
 
@@ -22,6 +22,6 @@ Minecraft:JavaEdition(版本1.18.2以上)
 
 点击**“完成”**
 
-右键双击服务器 或 在服务器Logo悬浮并右键单击
+左键双击服务器 或 在服务器Logo悬浮并左键单击
 
 ![](../.gitbook/assets/image.png)
