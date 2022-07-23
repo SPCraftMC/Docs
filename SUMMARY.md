@@ -1,22 +1,22 @@
 # Table of contents
 
 * [文档首页](README.md)
-* [相关链接](xiang-guan-lian-jie.md)
+* [相关链接](about-links.md)
 
 ## 加入游戏
 
-* [注册与登录](jia-ru-you-xi/zhu-ce-yu-deng-lu.md)
-* [使用 Minecraft:JavaEdition](jia-ru-you-xi/shi-yong-minecraftjavaedition.md)
-* [使用 Minecraft:BedrockEdition](jia-ru-you-xi/shi-yong-minecraftbedrockedition.md)
+* [注册与登录](join-game/zhu-ce-yu-deng-lu.md)
+* [使用 Minecraft:JavaEdition](join-game/use-minecraft-javaedition.md)
+* [使用 Minecraft:BedrockEdition](join-game/use-minecraft-bedrockedition.md)
 
 ## 消息转发
 
-* [转发Minecraft服务器消息](xiao-xi-zhuan-fa/zhuan-fa-minecraft-fu-wu-qi-xiao-xi.md)
-* [转发QQ群消息](xiao-xi-zhuan-fa/zhuan-fa-qq-qun-xiao-xi.md)
+* [转发Minecraft服务器消息](chat-forward/minecraft-forward-to-qq.md)
+* [转发QQ群消息](chat-forward/qq-forward-to-minecraft.md)
 
 ## 传送
 
-* [回到世界出生点](chuan-song/hui-dao-shi-jie-chu-sheng-dian.md)
-* [家功能](chuan-song/jia-gong-neng.md)
-* [玩家间传送](chuan-song/wan-jia-jian-chuan-song.md)
-* [随机传送](chuan-song/sui-ji-chuan-song.md)
+* [回到世界出生点](teleport/spawn.md)
+* [家功能](teleport/home-plugin.md)
+* [玩家间传送](teleport/wan-jia-jian-chuan-song.md)
+* [随机传送](teleport/sui-ji-chuan-song.md)
