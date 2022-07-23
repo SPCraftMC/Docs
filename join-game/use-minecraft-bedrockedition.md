@@ -30,4 +30,4 @@ Minecraft:BedrockEdition(版本1.18.20以上)
 
 点击**“加入服务器”**
 
-![](../.gitbook/assets/Screenshot\_20220717\_192137\_com.mojang.minecraftpe.jpg)
+![](../.gitbook/assets/image.png)
