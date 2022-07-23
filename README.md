@@ -8,8 +8,6 @@ coverY: 0
 
 这里是我们的文档，目前已有：
 
-[wen-dang-nei-rong-han-yi-jie-xi.md](wen-dang-nei-rong-han-yi-jie-xi.md "mention")
-
 相关链接
 
 * [about-links.md](about-links.md "mention")
@@ -29,6 +27,4 @@ coverY: 0
 
 * [spawn.md](teleport/spawn.md "mention")
 * [home-plugin.md](teleport/home-plugin.md "mention")
-* [wan-jia-jian-chuan-song.md](teleport/wan-jia-jian-chuan-song.md "mention")
-* [sui-ji-chuan-song.md](teleport/sui-ji-chuan-song.md "mention")
 
