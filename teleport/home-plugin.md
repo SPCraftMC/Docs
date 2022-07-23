@@ -12,4 +12,4 @@ description: 快速回到自己的家
 
 若要回到家，可以使用命令**“/home”**
 
-<mark style="color:red;">**警告：所有传送是异步的，不要重复使用导致出现任何问题！**</mark>
+<mark style="color:red;">**警告：所有传送是异步的，不要重复使用防止出现任何问题！**</mark>
