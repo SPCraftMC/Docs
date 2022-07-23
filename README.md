@@ -10,21 +10,21 @@ coverY: 0
 
 相关链接
 
-* [about-links.md](about-links.md "mention")
+* [xiang-guan-lian-jie.md](xiang-guan-lian-jie.md "mention")
 
 加入游戏相关
 
-* [zhu-ce-yu-deng-lu.md](join-game/zhu-ce-yu-deng-lu.md "mention")
-* [use-minecraft-javaedition.md](join-game/use-minecraft-javaedition.md "mention")
-* [use-minecraft-bedrockedition.md](join-game/use-minecraft-bedrockedition.md "mention")
+* [zhu-ce-yu-deng-lu.md](jia-ru-you-xi/zhu-ce-yu-deng-lu.md "mention")
+* [shi-yong-minecraftjavaedition.md](jia-ru-you-xi/shi-yong-minecraftjavaedition.md "mention")
+* [shi-yong-minecraftbedrockedition.md](jia-ru-you-xi/shi-yong-minecraftbedrockedition.md "mention")
 
 消息转发相关
 
-* [minecraft-forward-to-qq.md](chat-forward/minecraft-forward-to-qq.md "mention")
-* [qq-forward-to-minecraft.md](chat-forward/qq-forward-to-minecraft.md "mention")
+* [zhuan-fa-minecraft-fu-wu-qi-xiao-xi.md](xiao-xi-zhuan-fa/zhuan-fa-minecraft-fu-wu-qi-xiao-xi.md "mention")
+* [zhuan-fa-qq-qun-xiao-xi.md](xiao-xi-zhuan-fa/zhuan-fa-qq-qun-xiao-xi.md "mention")
 
 传送相关
 
-* [spawn.md](teleport/spawn.md "mention")
-* [home-plugin.md](teleport/home-plugin.md "mention")
+* [hui-dao-shi-jie-chu-sheng-dian.md](chuan-song/hui-dao-shi-jie-chu-sheng-dian.md "mention")
+* [jia-gong-neng.md](chuan-song/jia-gong-neng.md "mention")
 
