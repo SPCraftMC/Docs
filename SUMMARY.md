@@ -18,3 +18,4 @@
 
 * [回到世界出生点](teleport/spawn.md)
 * [家功能](teleport/home-plugin.md)
+* [玩家间传送](teleport/wan-jia-jian-chuan-song.md)
