@@ -1,6 +1,7 @@
 # Table of contents
 
 * [文档首页](README.md)
+* [文档内容含义解析](wen-dang-nei-rong-han-yi-jie-xi.md)
 * [相关链接](about-links.md)
 
 ## 加入游戏
