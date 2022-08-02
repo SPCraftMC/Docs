@@ -6,7 +6,7 @@ description: 注册我们指定的验证服务站点
 
 ### 注册
 
-待完善
+访问https://mcskin.cn/auth/register进行注册
 
 ### 登录
 
