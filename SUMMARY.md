@@ -6,7 +6,7 @@
 
 ## 加入游戏
 
-* [注册与登录](join-game/zhu-ce-yu-deng-lu.md)
+* [游戏内注册与登录](jia-ru-you-xi/you-xi-nei-zhu-ce-yu-deng-lu.md)
 * [红石皮肤站注册与登录](jia-ru-you-xi/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu.md)
 * [绑定白名单](jia-ru-you-xi/bang-ding-bai-ming-dan.md)
 * [使用 Minecraft:BedrockEdition](join-game/use-minecraft-bedrockedition.md)

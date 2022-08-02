@@ -16,7 +16,7 @@ coverY: 0
 
 加入游戏相关
 
-* [zhu-ce-yu-deng-lu.md](join-game/zhu-ce-yu-deng-lu.md "mention")
+* [you-xi-nei-zhu-ce-yu-deng-lu.md](jia-ru-you-xi/you-xi-nei-zhu-ce-yu-deng-lu.md "mention")
 * [use-minecraft-javaedition.md](join-game/use-minecraft-javaedition.md "mention")
 * [use-minecraft-bedrockedition.md](join-game/use-minecraft-bedrockedition.md "mention")
 
