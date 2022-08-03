@@ -12,6 +12,6 @@ description: 我们的服务器配置
 * [x] 宿迁 京东云 华东 数据中心
 * [x] 150G DDoS防御能力
 * [x] Linux 系统
-* [x] 2开放端口
+* [x] 2 开放端口
 
 感谢 [简幻云](https://cloud.simpfun.cn/) 为服务器提供强力支持
