@@ -13,8 +13,8 @@
   * [绑定白名单](jia-ru-you-xi/wai-bu/bang-ding-bai-ming-dan.md)
 * [内部](jia-ru-you-xi/nei-bu/README.md)
   * [游戏内注册与登录](jia-ru-you-xi/nei-bu/you-xi-nei-zhu-ce-yu-deng-lu.md)
-  * [使用 Minecraft:JavaEdition](jia-ru-you-xi/nei-bu/use-minecraft-javaedition.md)
-  * [使用 Minecraft:BedrockEdition](jia-ru-you-xi/nei-bu/use-minecraft-bedrockedition.md)
+* [使用 Minecraft:JavaEdition](jia-ru-you-xi/use-minecraft-javaedition.md)
+* [使用 Minecraft:BedrockEdition](jia-ru-you-xi/use-minecraft-bedrockedition.md)
 
 ## 消息转发
 
