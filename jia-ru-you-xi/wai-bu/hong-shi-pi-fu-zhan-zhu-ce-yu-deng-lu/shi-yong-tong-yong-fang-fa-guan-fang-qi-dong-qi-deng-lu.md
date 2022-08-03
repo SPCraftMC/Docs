@@ -2,6 +2,8 @@
 
 <mark style="color:red;">**警告：这将使所有验证转向我们指定的验证服务器（红石皮肤站）**</mark>
 
+前往[https://authlib-injector.yushi.moe/](https://authlib-injector.yushi.moe/)下载authlib-injector
+
 假设：
 
 * 你下载到的 authlib-injector JAR 文件名为`authlib-injector.jar`
