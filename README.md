@@ -16,11 +16,11 @@ coverY: 0
 
 加入游戏相关
 
-* [hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu.md](jia-ru-you-xi/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu.md "mention")
-* [bang-ding-bai-ming-dan.md](jia-ru-you-xi/bang-ding-bai-ming-dan.md "mention")
-* [you-xi-nei-zhu-ce-yu-deng-lu.md](jia-ru-you-xi/you-xi-nei-zhu-ce-yu-deng-lu.md "mention")
-* [use-minecraft-javaedition.md](join-game/use-minecraft-javaedition.md "mention")
-* [use-minecraft-bedrockedition.md](join-game/use-minecraft-bedrockedition.md "mention")
+* [hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu.md](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu.md "mention")
+* [bang-ding-bai-ming-dan.md](jia-ru-you-xi/wai-bu/bang-ding-bai-ming-dan.md "mention")
+* [you-xi-nei-zhu-ce-yu-deng-lu.md](jia-ru-you-xi/nei-bu/you-xi-nei-zhu-ce-yu-deng-lu.md "mention")
+* [use-minecraft-javaedition.md](jia-ru-you-xi/nei-bu/use-minecraft-javaedition.md "mention")
+* [use-minecraft-bedrockedition.md](jia-ru-you-xi/nei-bu/use-minecraft-bedrockedition.md "mention")
 
 消息转发相关
 
@@ -33,4 +33,3 @@ coverY: 0
 * [home-plugin.md](teleport/home-plugin.md "mention")
 * [wan-jia-jian-chuan-song.md](teleport/wan-jia-jian-chuan-song.md "mention")
 * [sui-ji-chuan-song.md](teleport/sui-ji-chuan-song.md "mention")
-
