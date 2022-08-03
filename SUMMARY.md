@@ -25,3 +25,7 @@
 * [家功能](teleport/home-plugin.md)
 * [玩家间传送](teleport/wan-jia-jian-chuan-song.md)
 * [随机传送](teleport/sui-ji-chuan-song.md)
+
+## 其他
+
+* [服务器配置](qi-ta/fu-wu-qi-pei-zhi.md)
