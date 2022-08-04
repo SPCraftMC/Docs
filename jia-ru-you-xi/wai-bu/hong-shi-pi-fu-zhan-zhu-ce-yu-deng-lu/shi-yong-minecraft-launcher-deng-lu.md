@@ -21,4 +21,17 @@ description: 使用原生Minecraft Launcher登录
 
 ![](../../../.gitbook/assets/GTC{CKU38PQ\)5\(3AD2{G16Q.png)
 
-点击“”显示更多选项
+点击“显示更多选项”
+
+![](../../../.gitbook/assets/UO{K\(T1K48\`@%Y\[G\[AP\_CSI.png)
+
+在“JVM参数”添加`-javaagent:C:/authlib-injector.jar={验证服务器地址}`
+
+如下方例子
+
+```
+// 注意：只是示例，请结合实际
+-javaagent:C:/authlib-injector.jar={验证服务器地址} -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+```
+
+![](../../../.gitbook/assets/5D\_8JR2RP%X\_\`]28\~1\[$6RE.png)

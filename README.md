@@ -19,7 +19,7 @@ coverY: 0
 * [wai-bu](jia-ru-you-xi/wai-bu/ "mention")
   * [hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/ "mention")
     * [shi-yong-bakaxl-qi-dong-qi-deng-lu.md](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-bakaxl-qi-dong-qi-deng-lu.md "mention")
-    * [shi-yong-tong-yong-fang-fa-deng-lu.md](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-tong-yong-fang-fa-deng-lu.md "mention")
+    * [shi-yong-tong-yong-fang-fa-guan-fang-qi-dong-qi-deng-lu.md](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-tong-yong-fang-fa-guan-fang-qi-dong-qi-deng-lu.md "mention")
   * [bang-ding-bai-ming-dan.md](jia-ru-you-xi/wai-bu/bang-ding-bai-ming-dan.md "mention")
 * [nei-bu](jia-ru-you-xi/nei-bu/ "mention")
   * [you-xi-nei-zhu-ce-yu-deng-lu.md](jia-ru-you-xi/nei-bu/you-xi-nei-zhu-ce-yu-deng-lu.md "mention")
