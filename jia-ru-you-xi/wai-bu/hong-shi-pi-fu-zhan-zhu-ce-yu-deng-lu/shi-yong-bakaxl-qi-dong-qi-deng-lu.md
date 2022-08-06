@@ -23,3 +23,7 @@ description: 使用BakaXL启动器登录红石皮肤站
 若有多个子用户，请选择绑定的用户
 
 ![](../../../.gitbook/assets/S7}SX65@\)9}0Q4X5\`NYZ6QP\(1\).png)
+
+
+
+[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)

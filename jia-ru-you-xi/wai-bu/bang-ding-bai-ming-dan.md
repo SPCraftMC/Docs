@@ -25,3 +25,9 @@ sprco 申请白名单 GF\_你的ID
 如您不清楚，请进入游戏后查看计分板显示ID，使用显示ID进行绑定
 
 sprco 申请白名单 显示ID
+
+
+
+
+
+[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)

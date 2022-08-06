@@ -15,3 +15,11 @@ description: 我们的服务器配置
 * [x] 2 开放端口
 
 感谢 [简幻云](https://cloud.simpfun.cn/) 为服务器提供强力支持
+
+感谢[免费云加速（FreeCDN）](http://www.freecdn.pw/?zzwz)提供免费CDN服务
+
+
+
+
+
+[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)

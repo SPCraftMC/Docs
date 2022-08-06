@@ -11,3 +11,7 @@ GitHub：[https://github.com/SPCraftMC](https://github.com/SPCraftMC)
 存档公开：[https://xmdisk.ga/SPCraft/worlds](https://xmdisk.ga/SPCraft/worlds)
 
 在线地图：[http://p1.simpfun.cn:8768](http://p1.simpfun.cn:8768)
+
+
+
+[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)
