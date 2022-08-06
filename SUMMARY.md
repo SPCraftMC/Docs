@@ -31,4 +31,6 @@
 
 ## 其他
 
+* [将手持物品作为帽子](qi-ta/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md)
+* [制作一张可以做的椅子](qi-ta/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md)
 * [服务器配置](qi-ta/fu-wu-qi-pei-zhi.md)
