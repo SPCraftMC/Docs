@@ -10,6 +10,8 @@ description: 使用 Minecraft:JavaEdition 加入服务器
 
 Minecraft:JavaEdition（版本1.18.2以上）
 
+参考文档注册了红石皮肤站并且配置[hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu](wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/ "mention")
+
 ### 加入
 
 打开**Minecraft:JavaEdition**（版本1.18.2以上）
@@ -24,4 +26,4 @@ Minecraft:JavaEdition（版本1.18.2以上）
 
 左键双击服务器 或 在服务器Logo悬浮并左键单击
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2).png>)
