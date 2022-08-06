@@ -13,15 +13,15 @@ description: 使用原生Minecraft Launcher登录
 * 你下载到的 authlib-injector JAR 文件名为`authlib-injector.jar`
 * 你将其放到了`C:/`
 
-打开Minecraft Launcher，点击“配置”
+打开Minecraft Launcher，点击**“配置”**
 
 ![](../../../.gitbook/assets/AO21\_\[2X1YNP\~L65ISM3\`B0.png)
 
-选择一个版本，鼠标悬浮并点击“···”，点击“编辑”
+选择一个版本，鼠标悬浮并点击**“···”**，点击**“编辑”**
 
 ![](../../../.gitbook/assets/GTC{CKU38PQ\)5\(3AD2{G16Q.png)
 
-点击“显示更多选项”
+点击**“显示更多选项”**
 
 ![](../../../.gitbook/assets/UO{K\(T1K48\`@%Y\[G\[AP\_CSI.png)
 

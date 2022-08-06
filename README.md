@@ -18,6 +18,7 @@ coverY: 0
 
 * [wai-bu](jia-ru-you-xi/wai-bu/ "mention")
   * [hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/ "mention")
+    * [shi-yong-minecraft-launcher-deng-lu.md](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-minecraft-launcher-deng-lu.md "mention")
     * [shi-yong-bakaxl-qi-dong-qi-deng-lu.md](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-bakaxl-qi-dong-qi-deng-lu.md "mention")
     * [shi-yong-tong-yong-fang-fa-guan-fang-qi-dong-qi-deng-lu.md](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-tong-yong-fang-fa-guan-fang-qi-dong-qi-deng-lu.md "mention")
   * [bang-ding-bai-ming-dan.md](jia-ru-you-xi/wai-bu/bang-ding-bai-ming-dan.md "mention")
@@ -40,5 +41,7 @@ coverY: 0
 
 其他
 
+* [jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md](qi-ta/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md "mention")
+* [zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md](qi-ta/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md "mention")
 * [fu-wu-qi-pei-zhi.md](qi-ta/fu-wu-qi-pei-zhi.md "mention")
 
