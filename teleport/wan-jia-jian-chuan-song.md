@@ -33,7 +33,3 @@ description: 传送到其他玩家，或者把他们传送过来
 若要自动同意传送请求，请使用命令**“/tpauto”**
 
 <mark style="color:red;">**警告：所有传送是异步的，不要重复使用防止出现任何问题！**</mark>
-
-<mark style="color:red;">****</mark>
-
-<mark style="color:red;">****</mark>
