@@ -26,4 +26,4 @@ Minecraft:JavaEdition（版本1.18.2以上）
 
 左键双击服务器 或 在服务器Logo悬浮并左键单击
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2).png>)

@@ -17,10 +17,11 @@
 * [使用 Minecraft:JavaEdition](jia-ru-you-xi/use-minecraft-javaedition.md)
 * [使用 Minecraft:BedrockEdition](jia-ru-you-xi/use-minecraft-bedrockedition.md)
 
-## 消息转发
+## 聊天
 
-* [转发Minecraft服务器消息](chat-forward/minecraft-forward-to-qq.md)
-* [转发QQ群消息](chat-forward/qq-forward-to-minecraft.md)
+* [私聊](liao-tian/si-liao.md)
+* [转发Minecraft服务器消息](liao-tian/minecraft-forward-to-qq.md)
+* [转发QQ群消息](liao-tian/qq-forward-to-minecraft.md)
 
 ## 传送
 
