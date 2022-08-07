@@ -31,9 +31,10 @@
 
 ## 教程
 
-* [将手持物品作为帽子](jiao-cheng/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md)
-* [制作一张可以做的椅子](jiao-cheng/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md)
+* [将手持物品作为帽子](qi-ta/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md)
+* [制作一张可以做的椅子](qi-ta/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md)
 * [挂机模式（AFK）](jiao-cheng/gua-ji-mo-shi-afk.md)
+* [连点器规则](jiao-cheng/lian-dian-qi-gui-ze.md)
 
 ## 其他
 

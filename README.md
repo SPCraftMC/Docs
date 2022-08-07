@@ -41,6 +41,6 @@ coverY: 0
 
 其他
 
-* [jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md](jiao-cheng/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md "mention")
-* [zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md](jiao-cheng/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md "mention")
+* [jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md](qi-ta/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md "mention")
+* [zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md](qi-ta/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md "mention")
 * [fu-wu-qi-pei-zhi.md](qi-ta/fu-wu-qi-pei-zhi.md "mention")
