@@ -37,6 +37,7 @@
 * [挂机模式（AFK）](jiao-cheng/gua-ji-mo-shi-afk.md)
 * [连点器规则](jiao-cheng/lian-dian-qi-gui-ze.md)
 * [聊天文本特性](jiao-cheng/liao-tian-wen-ben-te-xing.md)
+* [签到](jiao-cheng/qian-dao.md)
 
 ## 其他
 
