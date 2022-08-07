@@ -29,8 +29,12 @@
 * [玩家间传送](teleport/wan-jia-jian-chuan-song.md)
 * [随机传送](teleport/sui-ji-chuan-song.md)
 
+## 教程
+
+* [将手持物品作为帽子](jiao-cheng/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md)
+* [制作一张可以做的椅子](jiao-cheng/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md)
+* [挂机模式（AFK）](jiao-cheng/gua-ji-mo-shi-afk.md)
+
 ## 其他
 
-* [将手持物品作为帽子](qi-ta/jiang-shou-chi-wu-pin-zuo-wei-mao-zi.md)
-* [制作一张可以做的椅子](qi-ta/zhi-zuo-yi-zhang-ke-yi-zuo-de-yi-zi.md)
 * [服务器配置](qi-ta/fu-wu-qi-pei-zhi.md)
