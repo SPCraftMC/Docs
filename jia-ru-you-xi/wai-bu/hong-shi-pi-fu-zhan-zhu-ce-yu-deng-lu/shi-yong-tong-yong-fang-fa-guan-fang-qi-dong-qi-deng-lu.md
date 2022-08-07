@@ -16,9 +16,3 @@
 // 注意：只是示例，切勿直接复制粘贴下方启动参数，否则将无法启动
 java -javaagent:C:/authlib-injector.jar={验证服务器地址} ... -jar client.jar
 ```
-
-
-
-
-
-[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)

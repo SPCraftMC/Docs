@@ -27,7 +27,3 @@ Minecraft:JavaEdition（版本1.18.2以上）
 左键双击服务器 或 在服务器Logo悬浮并左键单击
 
 ![](<../.gitbook/assets/image (2).png>)
-
-
-
-[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)

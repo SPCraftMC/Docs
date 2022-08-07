@@ -31,9 +31,3 @@ Minecraft:BedrockEdition(版本1.18.20以上)
 点击**“加入服务器”**
 
 ![](../.gitbook/assets/image.png)
-
-
-
-
-
-[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)

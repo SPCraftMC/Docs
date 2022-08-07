@@ -35,7 +35,3 @@ description: 使用原生Minecraft Launcher登录
 ```
 
 ![](../../../.gitbook/assets/5D\_8JR2RP%X\_\`]28\~1\[$6RE.png)
-
-
-
-[本站由免费云加速（FreeCDN）提供网站加速和攻击防御服务](http://www.freecdn.pw/?zzwz)
