@@ -25,7 +25,7 @@ description: 使用原生Minecraft Launcher登录
 
 ![](../../../.gitbook/assets/UO{K\(T1K48\`@%Y\[G\[AP\_CSI.png)
 
-在**“JVM参数”**添加`-javaagent:C:/authlib-injector.jar={验证服务器地址}`
+在“JVM参数”添加`-javaagent:C:/authlib-injector.jar={验证服务器地址}`
 
 如下方例子
 
