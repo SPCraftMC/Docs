@@ -8,7 +8,7 @@ description: 使用聊天文本自带特性实现便捷功能
 
 点击玩家前的**“**<mark style="color:yellow;">**\[**</mark><mark style="color:green;">**MC**</mark><mark style="color:yellow;">**]**</mark>**”**可发起传送至对方请求
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### 发起私聊
 
@@ -18,4 +18,4 @@ description: 使用聊天文本自带特性实现便捷功能
 
 若需要OP的帮助，点击OP名称后的**“**<mark style="color:red;">**\[求助]**</mark>**”**将自动发送一条求助信息
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)

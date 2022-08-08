@@ -38,6 +38,7 @@
 * [连点器规则](jiao-cheng/lian-dian-qi-gui-ze.md)
 * [聊天文本特性](jiao-cheng/liao-tian-wen-ben-te-xing.md)
 * [签到](jiao-cheng/qian-dao.md)
+* [发送特殊样式文本](jiao-cheng/fa-song-te-shu-yang-shi-wen-ben.md)
 
 ## 其他
 
