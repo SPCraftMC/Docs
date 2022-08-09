@@ -8,7 +8,9 @@
 
 * [外部](jia-ru-you-xi/wai-bu/README.md)
   * [红石皮肤站注册与登录](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/README.md)
+    * [使用HMCL启动器登录](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-hmcl-qi-dong-qi-deng-lu.md)
     * [使用BakaXL启动器登录](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-bakaxl-qi-dong-qi-deng-lu.md)
+    * [使用PCL2启动器登录](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-pcl2-qi-dong-qi-deng-lu.md)
     * [使用通用方法登录](jia-ru-you-xi/wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/shi-yong-tong-yong-fang-fa-guan-fang-qi-dong-qi-deng-lu.md)
   * [绑定白名单](jia-ru-you-xi/wai-bu/bang-ding-bai-ming-dan.md)
 * [内部](jia-ru-you-xi/nei-bu/README.md)
