@@ -16,6 +16,8 @@ sprco 申请白名单 你的ID
 
 QQ群中执行命令
 
+ID部分请将空格转换为**“\_”**
+
 sprco 申请白名单 GF\_你的ID
 
 例：sprco 申请白名单 GF\_TestNAME
