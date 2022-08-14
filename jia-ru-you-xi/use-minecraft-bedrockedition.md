@@ -8,13 +8,13 @@ description: 使用 Minecraft:BedrockEdition 加入服务器
 
 要加入服务器，需要以下先决条件：
 
-Minecraft:BedrockEdition(版本1.18.20以上)
+Minecraft:BedrockEdition(版本1.19.0以上)
 
 确保已开启 Xbox多人游戏 设置
 
 ### 加入
 
-打开**Minecraft:BedrockEdition**（1.18.20以上）
+打开**Minecraft:BedrockEdition**（1.19.0以上）
 
 点击**“游戏”**
 
