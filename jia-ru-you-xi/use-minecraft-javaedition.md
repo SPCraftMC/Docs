@@ -10,11 +10,11 @@ description: 使用 Minecraft:JavaEdition 加入服务器
 
 Minecraft:JavaEdition（版本1.18.2以上）
 
-参考文档注册了红石皮肤站并且配置[hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu](wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/ "mention")
+参考文档注册了红石皮肤站并且配置[hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu](wai-bu/hong-shi-pi-fu-zhan-zhu-ce-yu-deng-lu/ "mention")（如有正版可跳过）
 
 ### 加入
 
-打开**Minecraft:JavaEdition**（版本1.18.2以上）
+打开**Minecraft:JavaEdition**（版本1.17以上，推荐使用服务器对应版本1.18.2）
 
 点击**“多人游戏”**
 
