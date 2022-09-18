@@ -8,9 +8,9 @@ description: 连接你与服务器
 
 QQ群中执行命令
 
-sprco 申请白名单 你的ID
+!sprco whitelist 你的ID
 
-例：sprco 申请白名单 TestNAME
+例：sprco whitelist TestNAME
 
 ### 基岩版
 
@@ -18,12 +18,8 @@ QQ群中执行命令
 
 ID部分请将空格转换为**“\_”**
 
-sprco 申请白名单 GF\_你的ID
+**注意：基岩版ID过长会被自动截断，计算方法: 取你的ID前13位即为截断后的ID**
 
-例：sprco 申请白名单 GF\_TestNAME
+!sprco whitelist GF\_你的ID
 
-### 备注
-
-如您不清楚，请进入游戏后查看计分板显示ID，使用显示ID进行绑定
-
-sprco 申请白名单 显示ID
+例：!sprco whitelist GF\_TestNAME
