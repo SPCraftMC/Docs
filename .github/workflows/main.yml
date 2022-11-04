@@ -3,7 +3,7 @@ name: Build and push Docs
 on: [ push ]
 
 jobs:
-  build-and-push:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,13 +23,19 @@ jobs:
         run: |
           mkdocs build
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: './site'
+
+  push:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
 
       - name: Deploy to GitHub Pages
         id: deployment
