@@ -24,8 +24,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: 暗色模式
-  favicon: https://spcraft.1l1.icu/favicon.ico
-  logo: https://spcraft.1l1.icu/favicon.ico
+  favicon: https://spcraft.cn/favicon.ico
+  logo: https://spcraft.cn/favicon.ico
   icon:
     repo: fontawesome/brands/github
   features:
