@@ -4,8 +4,26 @@ theme:
   name: material
   highlightjs: true
   palette:
-    primary: green
-    accent: light green
+    - media: "(prefers-color-scheme)"
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-auto
+        name: 跟随系统
+    - media: "(prefers-color-scheme: light)"
+      primary: green
+      accent: light green
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: 暗色模式
+    - media: "(prefers-color-scheme: dark)"
+      primary: green
+      accent: light green
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 暗色模式
   favicon: https://spcraft.1l1.icu/favicon.ico
   logo: https://spcraft.1l1.icu/favicon.ico
   icon:
