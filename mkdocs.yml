@@ -5,7 +5,7 @@ theme:
   highlightjs: true
   palette:
     primary: green
-    accent: deep purple
+    accent: light green
   favicon: https://spcraft.1l1.icu/favicon.ico
   logo: https://spcraft.1l1.icu/favicon.ico
   icon:
